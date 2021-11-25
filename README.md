@@ -12,7 +12,7 @@ In this demonstration, I will show you how to exract stock data and revenue to s
 6. GameStop Stock and Revenue Dashboard
 
 
-The analysis was done in Google Collaborator but the last two grpghs are not displayed here (I try to figure whether it is caused by Google or github) but if you would like to see it, you can also visit Googlecollab page that linked at the top of the page. 
+The analysis was done in Google Collaborator but the last two plotly graphs are not displayed here but if you would like to see it, you can also visit Googlecollab page that linked at the top of the page. 
 
 [To see the analysis, please click here!](https://github.com/ali-unlu/Extracting-and-Visualizing-Stock-Data/blob/main/Tesla_and_gme.ipynb)
 
